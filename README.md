@@ -12,10 +12,11 @@ it works with all latest versions of android
  
  ## Toast
 
+[code time](https://www.google.com)
 
 import this on project level gradle 
 
-[
+
 allprojects {
 		repositories {
 			...
@@ -23,4 +24,4 @@ allprojects {
 		}
 	}
   
-  ]
+  
