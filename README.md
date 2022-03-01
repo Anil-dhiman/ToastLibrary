@@ -15,7 +15,7 @@ it works with all latest versions of android
 
 import this on project level gradle 
 
-/
+[
 allprojects {
 		repositories {
 			...
@@ -23,4 +23,4 @@ allprojects {
 		}
 	}
   
-  /
+  ]
